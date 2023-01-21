@@ -1,0 +1,78 @@
+.caja1{
+    position: absolute;
+    left: 100px; 
+    top: 100px;
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+    color: white;
+    margin: 10px;
+    
+}
+
+.caja2{
+    position: absolute;
+    left: 200px; 
+    top: 200px;
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+    color: white;
+    margin: 10px;
+}
+
+.caja3{
+    position: relative;
+     left: 1px;  
+     top: 1px; 
+    background-color: crimson;
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+    color: white;
+    margin: 10px;
+}
+
+.caja4{
+    position: relative;
+    left: 1px; 
+    top: 1px;
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+    color: white;
+    margin: 10px;
+}
+.caja5{
+    position: relative;
+    left: 1px; 
+    top: 1px;
+    background-color: aquamarine;
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+    color: white;
+    margin: 10px;
+}
+
+.container-padre{
+    width: 500px;
+    height: 500px;
+    background-color: gray;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+
+.boton-call{
+    position:fixed;
+    bottom: 1px;
+    right:1px;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+
+}

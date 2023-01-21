@@ -1,0 +1,39 @@
+*{
+    background-color: rgb(117, 97, 97);
+    font-size: white;
+}
+header{
+    height: 90px;
+    border: 2px solid aqua;
+}
+
+nav{
+     padding: 5px; 
+    float: right;
+    border: 2px solid rgb(78, 77, 75);
+}
+
+main{
+    width: 100%;
+    border: 2px solid aqua;
+}
+section{
+    width: 70%;
+    float: left;
+    border: 2px solid orange;
+}
+
+footer{    
+    border: 2px solid orange;
+    clear: both;
+}
+article{
+    border: 2px solid blue;
+}
+
+aside{
+    border: 2px solid orange;
+    width: 20%;
+    height: 300%;
+    float: right;
+}

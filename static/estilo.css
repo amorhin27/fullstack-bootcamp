@@ -1,0 +1,35 @@
+*{
+    /* font-size: 10px; */
+    font-size: bold;
+    line-height: 30px;
+}
+
+h1{
+    background-color: yellow;
+    color: blue;
+}
+
+#contenedor1{
+    background-color: green;
+    font-size: 20px;
+    color: white;
+}
+
+.padre .primer-hijo{
+    background-color: aqua;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+#contenedor2{
+    background-color: blue;
+    font-size: 20px;
+    color: yellowgreen;
+}
+
+.contenedor3{
+    background-color: red;
+    font-size: 20px;
+    color: black;
+}
